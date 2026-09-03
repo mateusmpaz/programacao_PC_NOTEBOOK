@@ -1,4 +1,4 @@
-from poligono import *
+from desafios.exercicio_22.poligono import *
 
 def main():
 
