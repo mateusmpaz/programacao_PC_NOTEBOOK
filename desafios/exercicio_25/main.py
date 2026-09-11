@@ -1,4 +1,4 @@
-from transportes import *
+from desafios.exercicio_25.transportes import *
 
 def main():
     distancia = 0
