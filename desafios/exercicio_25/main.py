@@ -1,7 +1,7 @@
 from desafios.exercicio_25.transportes import *
 
 def main():
-    distancia = 0
+    distancia = 13
 
     entrega = Drone(distancia)
     print(f"Frete de {type(entrega).__name__} em {distancia}Km = {entrega.calc_frete()}")
