@@ -1,4 +1,4 @@
-from exercicios.ex009.ex001 import ContaBancaria
+from exercicios.ex001 import ContaBancaria
 
 def main():
     c1 = ContaBancaria(111, "Maria", 5000)
